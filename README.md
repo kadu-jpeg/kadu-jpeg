@@ -3,8 +3,8 @@
 <br/>
 <div>
   <a href="https://github.com/kdpsa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdpsa&theme=dark&show_icons=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdpsa&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kdpsa&theme=dark&show_icons=true&count_private=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdpsa&layout=compact&theme=dark">
   </a>
 </div>
 
