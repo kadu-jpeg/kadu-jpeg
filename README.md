@@ -27,5 +27,5 @@
  <a href="https://www.linkedin.com/in/carloseduardo.sp/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.twitter.com/kdpsa_jpg/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
  <a href="https://www.instagram.com/kdpsa.jpg/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-   <a href="https://www.instagram.com/kdpsa.jpg/" target="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+   <a href="https://www.facebook.com/kdpsa/" target="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </div>
