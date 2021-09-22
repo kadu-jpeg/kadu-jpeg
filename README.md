@@ -43,7 +43,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&amp;logo=github&amp;logoColor=white"/>
 </div>
 
-#### - Operational System
+#### - Operating System
 
 <div style="display:inline-block">
   <img alt="Git" src="https://img.shields.io/badge/-Windows-0475d4?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
