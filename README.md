@@ -46,7 +46,7 @@
 #### - Operating System
 
 <div style="display:inline-block">
-  <img alt="Git" src="https://img.shields.io/badge/-Windows-0475d4?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0475d4?style=flat-square&amp;logo=Microsoft&amp;logoColor=white"/>
 </div>
 
 ### <p align="left"> - 📊 This is my GitHub stats:</p>
