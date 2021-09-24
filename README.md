@@ -34,6 +34,7 @@
 <div style="display:inline-block">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-f85149?style=flat-square&logo=figma&logoColor=white"/>
+ <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white"/>
 </div>
 
 #### - Version Control System
