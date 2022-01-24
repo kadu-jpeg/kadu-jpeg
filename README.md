@@ -1,6 +1,6 @@
 # <p align="center"> Hey, I'm Carlos Eduardo (Kadu)👋🏻</p>
 
-#### <p align="center">Today I'm working as IT Support Analyst, and learning about languages and tools for web development. I hope to become a front-end dev.</p>
+#### <p align="center">Today I'm working as IT Support Analyst, and learning about languages and tools for web development. I intend to become a front-end dev.</p>
 
 #### <p align="center"> How to reach me: ⤵️ </p>
 <div align="center">
