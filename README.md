@@ -25,7 +25,7 @@
 #### - IDE
 
 <div style="display:inline-block">
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&amp;logo=Visual-Studio-Code&amp;logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual-Studio-Code&amp;logoColor=white"/>
 </div>
 
 #### - UI
