@@ -1,11 +1,11 @@
 # <p align="center"> Hey, I'm Carlos Eduardo (Kadu)👋🏻</p>
 
-#### <p align="center">Today I'm working as IT Support Analyst, and learning about languages and tools for web development. I intend to become a front-end dev.</p>
+#### <p align="center">Currently, I am employed as an IT Support Analyst while actively engaging in learning various web development languages and tools. My goal is to transition into a role as a front-end developer.</p>
 
 #### <p align="center"> How to reach me: ⤵️ </p>
 <div align="center">
  <a href="mailto:carloseduardo1996@outlook.com"><img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/carloseduardo.sp/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/kadu-jpeg/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/kadu-jpeg" target="_blank"><img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
  <a href="https://www.twitter.com/kadu_jpeg/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
  <a href="https://www.instagram.com/kadu_jpeg/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
