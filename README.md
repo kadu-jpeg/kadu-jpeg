@@ -7,8 +7,8 @@
  <a href="mailto:carloseduardo1996@outlook.com"><img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/kadu-jpeg/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
  <a href="https://github.com/kadu-jpeg" target="_blank"><img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
- <!--<a href="https://www.twitter.com/kadu_jpeg/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
- <a href="https://www.instagram.com/kadu_jpeg/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>-->
+ <!--<a href="https://www.twitter.com/kadu_jpeg/" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>-->
+ <a href="https://www.instagram.com/kadu_jpeg/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div><br/>
 
 ### <p align="left"> 📝 Here are the languages/tools I'm studying:</p>
@@ -20,7 +20,7 @@
   <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <!--<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>-->
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
 </div>
 
 #### - IDE
